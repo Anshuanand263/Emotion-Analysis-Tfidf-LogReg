@@ -45,7 +45,7 @@ A machine learning project to classify text into emotions using **TF-IDF Vectori
 
 ![Streamlit App Screenshot](screenshot.png)
 
-[Open the Live App](https://your-app-link/)
+[Open the Live App](https://emotion-analysis-tfidf-logreg-ebr6rrwwwfxvenomsvdtmn.streamlit.app/)
 
 ---
 
